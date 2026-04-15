@@ -50,7 +50,7 @@ const jsonLd = {
   description:
     "Entreprise d'aménagement paysager depuis 2017. Élagage, abattage, taille de haies, entretien jardin, création terrasse.",
   url: "https://lj-services.vercel.app",
-  telephone: "+33661544682",
+  telephone: "+33644738056",
   email: "entreprisecourieux@outlook.fr",
   foundingDate: "2017",
   areaServed: [

@@ -18,7 +18,7 @@ const services = [
   {
     title: "Abattage",
     desc: "Abattage sécurisé de tous types d'arbres, même en zones difficiles d'accès.",
-    img: "/images/service-jardin.jpg",
+    img: "/images/service-abattage.jpg",
     icon: "🪓",
   },
   {
@@ -30,7 +30,7 @@ const services = [
   {
     title: "Rognage de souches",
     desc: "Élimination complète des souches par fraisage pour libérer votre terrain.",
-    img: "/images/service-elagage.jpg",
+    img: "/images/service-rognage.jpg",
     icon: "⚙️",
   },
   {
@@ -48,13 +48,13 @@ const services = [
   {
     title: "Entretien jardin",
     desc: "Tonte, désherbage, plantation et entretien régulier de vos espaces verts.",
-    img: "/images/service-jardin.jpg",
+    img: "/images/service-entretien.jpg",
     icon: "🌱",
   },
   {
     title: "Aménagement extérieur",
     desc: "Conception et création d'espaces paysagers sur mesure, du projet à la finition.",
-    img: "/images/service-haie.jpg",
+    img: "/images/service-amenagement.jpg",
     icon: "🗺️",
   },
 ];
